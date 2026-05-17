@@ -13,3 +13,5 @@ A video tutorial link will be provided here: youtube.com/watch?v=YwVYe3hIoa0
 An Arduino help page will be provided here: https://www.arduino.cc/en/Guide/libraries
 
 After you install these 3 libraries, then the code should work as intended
+
+Refer to JPEG listed for wiring and physical build
