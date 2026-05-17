@@ -85,9 +85,9 @@ void setup() {
   display.clearDisplay();
   display.setTextSize(1.5);
   display.setCursor(20, 20);
-  display.println("BY Circuit");
+  display.println("BY MEHAN &");
   display.setCursor(20, 40);
-  display.println("Digest");
+  display.println("ROHIT");
   display.display();
   delay(1000);
   display.clearDisplay();    
