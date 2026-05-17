@@ -14,4 +14,4 @@ An Arduino help page will be provided here: https://www.arduino.cc/en/Guide/libr
 
 After you install these 3 libraries, then the code should work as intended
 
-Refer to JPEG listed for wiring and physical build
+Refer to JPEG listed for wiring and physical build: (created using a picture of my build and photoshop)
