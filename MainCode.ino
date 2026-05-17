@@ -44,10 +44,10 @@ void air_sensor()
     quality = "  GOOD!";
   }
   else if (gasLevel >151 && gasLevel<200){
-    quality =  "  Poor!";
+    quality =  "  Average";
   }
   else if (gasLevel >200 && gasLevel<300){
-    quality  = "Very bad!";
+    quality  = "Poor!";
   }
     else if (gasLevel >300 && gasLevel<500){
     quality  = "Toxic!";
