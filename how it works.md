@@ -6,7 +6,7 @@ The Air Quality Monitoring System operates through the following process:
 * Display Output: Real-time data is displayed on the OLED screen
 * Continuous Monitoring: The system updates readings in real-time
 
-Components Required
+Components Required:
 
 | Component | Quantity | Description |
 |-----------|----------|-------------|
@@ -18,7 +18,7 @@ Components Required
 | Jumper Wires | Several | For making connections |
 | Power Supply | 1 | 5V power source for Arduino |
 
-Pin Configuration
+Pin Configuration:
 
 | Arduino Pin | Connected Component | Wire Color (Suggested) |
 |-------------|-------------------|----------------------|
@@ -31,7 +31,6 @@ Pin Configuration
 
 Air Quality Index (AQI) Scale:
 
-AQI Range	Category	Health Impact	Color Code:
 | AQI Range | Category | Health Impact | Color Code |
 |-----------|----------|---------------|------------|
 | 0-50 | Good | Minimal impact | Green |
