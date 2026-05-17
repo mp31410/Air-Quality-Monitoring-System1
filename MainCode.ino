@@ -50,10 +50,10 @@ void air_sensor()
     quality  = "Poor!";
   }
     else if (gasLevel >300 && gasLevel<500){
-    quality  = "Toxic!";
+    quality  = "Toxic";
   }
     else{
-    quality = " Toxic";   
+    quality = " Very Toxic!";   
 }
   display.setTextColor(WHITE);
   display.setTextSize(1);  
