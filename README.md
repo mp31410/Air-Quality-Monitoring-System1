@@ -8,7 +8,7 @@ This code requires 3 libraries for the code to work.
 
 You must install these libraries in the Arduino IDE software.
 
-A video tutorial link will be provided here: youtube.com/watch?v=YwVYe3hIoa0
+A video tutorial link will be provided here: [youtube.com/watch?v=YwVYe3hIoa0](url)
 
 An Arduino help page will be provided here: https://www.arduino.cc/en/Guide/libraries
 
