@@ -1,4 +1,4 @@
-# Air-Quality-Monitoring-System1
+# Air-Quality-Monitoring-System
 
 This code requires 3 libraries for the code to work. 
 
