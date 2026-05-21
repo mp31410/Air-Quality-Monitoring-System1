@@ -4,7 +4,7 @@ This code requires 3 libraries for the code to work.
 
 * DHTlib by Robert Tillard
 * Adafruit_GFX by Adafruit
-* Adafruit_SSD1306
+* Adafruit_SSD1306 by Adafruit
 
 You must install these libraries in the Arduino IDE software.
 
